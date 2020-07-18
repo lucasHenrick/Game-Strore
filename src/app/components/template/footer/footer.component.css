@@ -1,0 +1,14 @@
+.footer{
+    /* Fixa o rodapé na parte inferior*/
+    position: fixed;
+    bottom: 0;
+    /* Coloca a frase para ponta */
+    display: flex;
+    justify-content: flex-end;
+    
+
+}
+.footer > span{
+    font-size: 1rem;
+    font-weight: 300;
+}
